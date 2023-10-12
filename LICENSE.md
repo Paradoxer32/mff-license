@@ -1,4 +1,6 @@
 # MFF (Made For Fun) license serie.
+> Type: strict
+
 > Version: MFF 1.0.0 (2023)
 
 ### Use and fork project:
