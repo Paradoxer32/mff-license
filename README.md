@@ -1,5 +1,6 @@
 # 'MFF License' github repository.
 > Latest version: 1.0.0 (2023)
+
 MFF is an open-source, free, open-source-fan, close-source-enjoyer, easy and fun license series, 'Made For Fun'!
 
 Types of MFF licenses:
