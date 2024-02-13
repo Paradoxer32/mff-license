@@ -1,7 +1,7 @@
 # MFF (Made For Fun) license serie.
 > Type: nocourt
 
-> Version: MFF 1.0.0 (2023)
+> Version: MFF 1.0.0 (2024)
 
 ### Use and fork project:
 1. Programs under this license can be forked by anyone, but the forked programs must be open-source.
